@@ -45,14 +45,19 @@ h1{
     font-weight: bolder;
 }
 
-.sign-up{
+.sign-up-section-one{
     background-color:#3882f6;
-    color: #f9faf8;
+    color: white;
+    width: 100px;
+    height: 20px;
+    border:1px;
+    border-radius: 20px;
 }
 
 .content{
     display: flex;
     flex-direction: row;
+    margin: 50px;
 }
 
 .content-left, .content-right{
@@ -60,5 +65,9 @@ h1{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    width: 50%;
+}
 
+img{
+    margin: 50px;
 }
