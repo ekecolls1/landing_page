@@ -96,3 +96,27 @@ font-weight: bolder;
     text-align: center;
     font-size: 18px;
 }
+
+.section-three{
+    background-color: #e5e7eb;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    align-items: center;
+}
+
+.quote-one{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color:#1f2937;
+}
+
+.quote-two{
+    font-weight: bolder;
+    color: black;
+    font-size: 25px;
+    text-align: left;
+    margin-left: 14cm;  
+}
