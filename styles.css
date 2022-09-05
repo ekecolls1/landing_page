@@ -71,3 +71,28 @@ h1{
 img{
     margin: 50px;
 }
+
+#head{
+font-size: 36px;
+color: #1f2937;
+text-align: center;
+font-weight: bolder;
+}
+.all-boxes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 100%;
+    margin: 100px;
+}
+
+.blue-box{
+    border: 3px solid blue;
+    border-radius: 5px;
+    height: 200px;
+    width:200px;
+}
+.p-two{
+    text-align: center;
+    font-size: 18px;
+}
