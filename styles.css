@@ -164,3 +164,13 @@ h4{
     border:1px solid white;
     border-radius: 10px;
 }
+
+.last-section{
+    display: flex;
+    background-color: black;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: medium;
+}
